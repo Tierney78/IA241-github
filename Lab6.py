@@ -9,7 +9,7 @@ for i in range(6):
         
         print(i)
     
-    #3.2
+#3.2
 
 result = 1
 
